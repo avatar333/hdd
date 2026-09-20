@@ -1,0 +1,24 @@
+Hard Disk Sentinel for LINUX console 0.20c-x64.10851 (c) 2024 info@hdsentinel.com
+Start with -r [reportfile] to save data to report, -h for help
+
+Examining hard disk configuration ...
+ Disk device: /dev/sdg
+
+HDD Device  0: /dev/sdg
+HDD Model ID : TOSHIBA MG03ACA400
+HDD Serial No: 44N1K29MF
+HDD Revision : FL1D
+HDD Size     : 3815448 MB
+Interface    : SAT Standard USB/ATA
+Temperature  : 20 °C
+Highest Temp.: 35 °C
+Health       : 100 %
+Performance  : 100 %
+Power on time: 1871 days, 20 hours
+Est. lifetime: more than 100 days
+  The hard disk status is PERFECT. Problematic or weak sectors were not found and there are no spin up or data transfer errors. 
+  The disk drive reached the end of the designed lifetime. Chance of sudden, unforeseen failure is higher.
+  In a critical system, it is recommended to consider replacement.
+    No actions needed.
+
+

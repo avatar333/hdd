@@ -1,0 +1,22 @@
+Hard Disk Sentinel for LINUX console 0.20c-x64.10851 (c) 2024 info@hdsentinel.com
+Start with -r [reportfile] to save data to report, -h for help
+
+Examining hard disk configuration ...
+ Disk device: /dev/sdg
+
+HDD Device  0: /dev/sdg
+HDD Model ID : WD4000FYYX
+HDD Serial No: WCC130370200
+HDD Revision : 00.0D1K2
+HDD Size     : 3815448 MB
+Interface    : SAT Standard USB/ATA
+Temperature  : 20 °C
+Highest Temp.: 44 °C
+Health       : 100 %
+Performance  : 100 %
+Power on time: 2371 days, 9 hours (estimated)
+Est. lifetime: more than 100 days
+  The hard disk status is PERFECT. Problematic or weak sectors were not found and there are no spin up or data transfer errors. 
+    No actions needed.
+
+

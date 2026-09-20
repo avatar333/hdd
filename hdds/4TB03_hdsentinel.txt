@@ -1,0 +1,22 @@
+Hard Disk Sentinel for LINUX console 0.20c-x64.10851 (c) 2024 info@hdsentinel.com
+Start with -r [reportfile] to save data to report, -h for help
+
+Examining hard disk configuration ...
+ Disk device: /dev/sdg
+
+HDD Device  0: /dev/sdg
+HDD Model ID : ST4000NM0033-9ZM170
+HDD Serial No: S1Z0YTC0
+HDD Revision : GA0A
+HDD Size     : 3815448 MB
+Interface    : SAT Standard USB/ATA
+Temperature  : 26 °C
+Highest Temp.: 40 °C
+Health       : 100 %
+Performance  : 100 %
+Power on time: 1680 days, 1 hours
+Est. lifetime: more than 144 days
+  The hard disk status is PERFECT. Problematic or weak sectors were not found and there are no spin up or data transfer errors. 
+    No actions needed.
+
+
